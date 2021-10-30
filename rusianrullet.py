@@ -6,10 +6,10 @@ a = ["1", "2", "3", "4,", "5", "6"]
 rnA = random.choice(a)
 c = input("pick a number from 1 to 6: ")
 while int(c) > 6:
-    print("bruh")
+    time.sleep(99999999999999)
 if c == rnA:
     print("you aren't anymore, F")
-    time.sleep(2)
+    time.sleep(99999999999999)
 else:
     print("you survived this round")
     time.sleep(2)
@@ -17,10 +17,10 @@ a = ["1", "2", "3", "4,", "5", "6"]
 rnA = random.choice(a)
 c = input("pick a number from 1 to 6: ")
 while int(c) > 6:
-    print("bruh")
+    time.sleep(99999999999999)
 if c == rnA:
     print("you aren't anymore, F")
-    time.sleep(2)
+    time.sleep(99999999999999)
 else:
     print("you survived this round")
     time.sleep(2)
@@ -28,10 +28,10 @@ a = ["1", "2", "3", "4,", "5", "6"]
 rnA = random.choice(a)
 c = input("pick a number from 1 to 6: ")
 while int(c) > 6:
-    print("bruh")
+    time.sleep(99999999999999)
 if c == rnA:
     print("you aren't anymore, F")
-    time.sleep(2)
+    time.sleep(99999999999999)
 else:
     print("you survived this round")
     time.sleep(2)
@@ -39,10 +39,10 @@ a = ["1", "2", "3", "4,", "5", "6"]
 rnA = random.choice(a)
 c = input("pick a number from 1 to 6: ")
 while int(c) > 6:
-    print("bruh")
+    time.sleep(99999999999999)
 if c == rnA:
     print("you aren't anymore, F")
-    time.sleep(2)
+    time.sleep(99999999999999)
 else:
     print("you survived this round")
     time.sleep(2)
@@ -50,10 +50,10 @@ a = ["1", "2", "3", "4,", "5", "6"]
 rnA = random.choice(a)
 c = input("pick a number from 1 to 6: ")
 while int(c) > 6:
-    print("bruh")
+    time.sleep(99999999999999)
 if c == rnA:
     print("you aren't anymore, F")
-    time.sleep(2)
+    time.sleep(99999999999999)
 else:
     print("congrats you won the game, yayyyyyyyy!!!!")
     time.sleep(5)
